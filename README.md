@@ -7,6 +7,7 @@ Generates a virtual camera based on an IP camera on your local network.
 + Python 3.10 or higher
 + OpenCV2
 + pyvirtualcam
++ ffpyplayer
 
 # Installation
 
